@@ -1,0 +1,5 @@
+Displayname,Firstname,Lastname,SAM,UPN,Password,OU
+Name Surname t2,Name,Surname,Surname.t2,Surname.t2@domain.com,Tier2login!,"OU=Accounts,OU=Tier 2,OU=Admin,DC=domain,DC=com"
+
+
+

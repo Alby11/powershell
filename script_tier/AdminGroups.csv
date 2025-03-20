@@ -1,0 +1,5 @@
+Name,samAccountName,GroupCategory,GroupScope,DisplayName,OU,Description,Membership
+Tier0AccountsAll,Tier0AccountsAll,Security,Global,Tier0AccountsAll,"OU=Groups,OU=Admin",Members of this group are Tier 0 Admins,
+Tier1AccountsAll,Tier1AccountsAll,Security,Global,Tier1AccountsAll,"OU=Groups,OU=Admin",Members of this group are Tier 1 Admins,
+Tier2AccountsAll,Tier2AccountsAll,Security,Global,Tier2AccountsAll,"OU=Groups,OU=Admin",Members of this group are Tier 2 Admins,
+TierStandBy,TierStandBy,Security,Global,TierStandBy,"OU=Groups,OU=Admin",Members of this group are Computers Exclude from policy,
